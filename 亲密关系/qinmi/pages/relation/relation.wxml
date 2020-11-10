@@ -1,0 +1,27 @@
+<!--pages/relation/relation.wxml-->
+<view class="mainContiner">
+  <view class="head">
+    <view class ="article">
+    <text>我们</text>
+    </view>
+  </view>
+  <view class="body">
+    <view class="relationPhoto">
+      <cover-image class="relationPhotoUpload"src="../../src/image/relationPhotoUpload.png"></cover-image>
+    </view>
+    <view class="relationMoudle">      
+      <view class="moudle1">
+        <text>需求表达</text>
+      </view>
+      <view class="moudle2">
+        <text>依恋类型</text>
+      </view>
+      <view class="moudle3">
+        <text>恋爱周期</text>
+      </view>
+      <view class="moudle4">
+        <text>矛盾解决</text>
+      </view>
+    </view>
+  </view>
+</view>
